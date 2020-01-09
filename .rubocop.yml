@@ -1,0 +1,10 @@
+# these files cascade and build the base config of our linting
+inherit_from:
+  - https://raw.githubusercontent.com/talentplatforms/shared-rubocop/master/.talentplatforms-rubocop.yml
+  # - .rubocop_todo.yml
+
+# service specifics start below
+
+# if we need to turn of rules, shut up about it!
+Lint/RedundantCopEnableDirective:
+  Enabled: false
