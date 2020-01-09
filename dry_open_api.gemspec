@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name          = "dry_open_api"
   spec.version       = DryOpenApi::VERSION
   spec.authors       = ["Andy Ruck"]
-  spec.email         = ["devops@talentplatforms.de"]
+  spec.email         = ["devops@talentplatforms.net"]
 
   spec.summary       = "Dry-PORO OpenAPI 3.x"
   spec.description   = "It provides a dried PORO of OpenAPI specification."
