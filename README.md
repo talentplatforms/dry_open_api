@@ -1,6 +1,6 @@
 `dry_open_api`
 
-Providing a [dry](https://dry-rb.org/) version of th [open_api gem](https://github.com/ngtk/open_api).
+Providing a [dry](https://dry-rb.org/) version of the [open_api gem](https://github.com/ngtk/open_api).
 ## Installation
 
 Add this line to your application's Gemfile:
