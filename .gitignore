@@ -10,3 +10,4 @@
 # rspec failure tracking
 .rspec_status
 .rubocop-https---raw-githubusercontent-com-talentplatforms-shared-rubocop-master--talentplatforms-rubocop-yml
+*.gem
