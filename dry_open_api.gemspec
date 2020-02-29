@@ -24,7 +24,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "dry-initializer", "~> 3.0"
 
   spec.add_development_dependency "bundler", "~> 2.0.2", ">= 2.0.2"
-  spec.add_development_dependency "rake", "~> 10.0"
+  spec.add_development_dependency "rake", "~> 13.0"
   spec.add_development_dependency "rspec", "~> 3.0"
   spec.add_development_dependency "pry"
   spec.add_development_dependency "simplecov"
